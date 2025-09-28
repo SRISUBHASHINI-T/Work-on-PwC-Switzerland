@@ -1,0 +1,30 @@
+# 🔄 Customer Churn Analysis – BWCC Sherland Job Simulation
+
+## 📌 Overview
+This project focuses on analyzing customer churn data as part of the **BWCC Sherland Job Simulation**. The goal was to identify patterns and key factors contributing to customer attrition, develop predictive insights, and provide strategies to improve customer retention.  
+
+## 🎯 Key Objectives
+- Analyze historical customer data to detect churn trends.  
+- Identify key factors influencing customer attrition (e.g., usage patterns, demographics, service issues).  
+- Build predictive models to forecast potential churn.  
+- Provide actionable recommendations to reduce churn and improve retention.  
+- Segment customers for targeted retention strategies.  
+
+## 🛠️ Tools & Technologies
+- **Microsoft Excel** → Data cleaning and preprocessing  
+- **Power BI** → Dashboards and visualization of churn metrics  
+- **DAX Functions** → KPI calculations for churn rate, retention rate, and risk scoring  
+- **Basic Predictive Modeling** → Identifying churn indicators and trends  
+
+## 📊 Process
+1. **Data Cleaning**: Standardized customer records, handled missing values, and removed duplicates.  
+2. **Exploratory Analysis**: Analyzed churn distribution across customer segments and time periods.  
+3. **Visualization**: Designed interactive dashboards in Power BI to track churn metrics and retention KPIs.  
+4. **Predictive Insights**: Identified patterns and leading indicators of churn to guide proactive interventions.  
+5. **Recommendations**: Suggested targeted strategies for high-risk customers to reduce attrition.  
+
+## 📈 Outcome
+- Detected high-risk customer segments prone to churn.  
+- Provided visual dashboards for stakeholders to monitor churn in real-time.  
+- Offered actionable recommendations to improve retention and customer satisfaction.  
+- Enabled data-driven decision-making for customer relationship management strategies.  
